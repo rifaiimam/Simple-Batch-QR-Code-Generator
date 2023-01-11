@@ -36,4 +36,4 @@ if __name__ == "__main__":
     if csv_file and delimit is not None:
         qr_generator(csv_file, delimit)
     else:
-        print("Please chose an CSV file as an input and defined the delimiter")
+        print("Please choose an CSV file as an input and defined the delimiter")
