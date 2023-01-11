@@ -5,6 +5,7 @@ Simple batch QR code generator from CSV file using Python
 * Python 3
 * Segno Module
 * CSV file
+
 To install segno module run this command below
 ``` shell
 # Install segno module using pip
