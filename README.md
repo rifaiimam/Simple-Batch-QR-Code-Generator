@@ -10,8 +10,8 @@ pip install segno
 
 ## Testing
 In this repository there is `example.csv` as an example that can be used to generate QR codes <br>
-Make sure that the `qr_generator.py` and the CSV are in one fodler
-Run the program
+Make sure that the `qr_generator.py` and the CSV file are in one folder <br>
+* Run the program
 ``` shell
 python qr_generator.py -i "example.csv" -d ";"
 ```
