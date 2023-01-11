@@ -2,7 +2,7 @@
 Simple batch QR code generator from CSV file using Python
 
 ## Requirements
-Install segno module to use as QR code generator
+Install segno module to be used as QR code generator
 ``` shell
 # Install segno module using pip
 pip install segno
