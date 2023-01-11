@@ -15,6 +15,6 @@ Run the program
 ``` shell
 python qr_generator.py -i "example.csv" -d ";"
 ```
-The `-i` or `--input` argument is used to specify the CSV file
+The `-i` or `--input` argument is used to specify the CSV file <br>
 The `-d` or `--delimiter` argument is used to specify the special character that was used as tab delimiter
 
